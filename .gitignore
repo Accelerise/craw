@@ -1,0 +1,9 @@
+
+NetEase/*/
+!NetEase/NetEaseMusic.py
+!NetEase/style.css
+SinaBlog/*/
+!SinaBlog/sinablog.py
+doubanbook/peopleErrorLog\.txt
+
+doubanbook/yearErrorLog\.txt

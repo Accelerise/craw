@@ -1,0 +1,19 @@
+@media screen and (min-width: 700px){
+	#song{
+		width: 560px;
+	}
+}
+@media screen and (max-width: 700px){
+	#song{
+		width: 100%;
+	}
+}
+#song{
+	font-size: 18px;
+	text-align: center;
+	margin: 0 auto;
+}
+#author{
+	margin: 10px 0;
+	font-size: 24px;
+}
